@@ -1,3 +1,4 @@
+//Packages//
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
@@ -49,7 +50,7 @@ const questions = [
   },
 ];
 
-// Initialize program function
+// Initialize program function//
 
 function getPrompt() {
   return inquirer
@@ -57,7 +58,7 @@ function getPrompt() {
     .then((answers) => {
     const mark = generateMarkdown.generateReadme(answers);
       
-      // Function to wrtie README file
+      // Function to wrtie README file//
 
       fs.writeFile("README.md", mark, function (err) {
         if (err) {
@@ -73,5 +74,5 @@ function getPrompt() {
       console.log(error);
     });
 }
-// Initialize program
+// Initialize program call//
 getPrompt();
