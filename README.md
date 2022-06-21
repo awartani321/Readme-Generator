@@ -1,30 +1,31 @@
 
-# hety
+# hey
+*[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
          
 ## Table of Content
 -  [Project description](#description)
 -  [Usage](#usage)
--  [Contributing](#contribution)
+-  [Contribution](#contribution)
 -  [Questions](#questions)
 -  [License](#license)
         
 ## Description
-hey
+hii
          
 ## Usage
-hey
+hh
 
 ## Installation
-hey
+hh
 
-## Contributing
-undefined
+## Contribution
+hh
 
 ## Questions
-hey
-hey
+hh
+hh
 
 ## License
-mit
+MIT
 
 

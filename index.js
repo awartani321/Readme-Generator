@@ -53,10 +53,7 @@ const questions = [
     type: "list",
     name: "license",
     message: "What is the license?",
-    choices: ["MIT", "ISC", "GPLv3, PERL"],
-    filter(val) {
-      return val.toLowerCase();
-    },
+    choices: ["MIT", "ISC", "GPLv3"]
   },
 ];
 
