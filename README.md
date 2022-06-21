@@ -10,7 +10,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
 ## Tutorial Video
-https://www.youtube.com/watch?v=ffEAFTV7KMc
+README-tutorial.mp4
 ## Github Repository
 
 https://github.com/awartani321/Readme-Generator.git
