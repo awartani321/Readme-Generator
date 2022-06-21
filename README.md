@@ -1,31 +1,17 @@
+## About
 
-# hey
-*[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-         
-## Table of Content
--  [Project description](#description)
--  [Usage](#usage)
--  [Contribution](#contribution)
--  [Questions](#questions)
--  [License](#license)
-        
-## Description
-hii
-         
-## Usage
-hh
+This is a README.md file generator for your next Github project.
+This application can help you quickly create README.md files.
 
-## Installation
-hh
+## User Story
 
-## Contribution
-hh
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
 
-## Questions
-hh
-hh
+## Tutorial Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffEAFTV7KMc?start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Github Repository
 
-## License
-MIT
-
+https://github.com/awartani321/Readme-Generator.git
 
